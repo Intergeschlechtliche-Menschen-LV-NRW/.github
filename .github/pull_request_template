@@ -1,0 +1,25 @@
+<!-- 
+Vielen Dank für die Erstellung dieses Pull-Anforderungen
+
+Bitte stellen Sie sicher, dass die Beschreibung des Pull Request auf einen Typ beschränkt ist (Docs, Feature, etc.) und halten Sie ihn so kurz wie möglich. Sie können mehrere Pull-Anforderungen öffnen, anstatt eine große Anfrage zu eröffnen.
+-->
+
+<!-- Wenn dieser Pull Anforderung ein Problem schließt, geben Sie bitte die Problemnummer an-->
+Closes # <!-- Problemnummer # hier -->
+
+## 📑 Beschreibung 
+<!-- Schreiben Sie hier eine kurze Beschreibung der Pull-Anforderung-->
+
+<!-- Sie können auch eine Liste der Änderungen hinzufügen und angeben, ob sie abgeschlossen wurden oder nicht, indem Sie die Syntax der Aufgabenliste verwenden: 
+- [ ] nicht abgeschlossen 
+- [x] abgeschlossen
+-->
+
+## ✅ Checks
+<!-- Vergewissern Sie sich, dass Ihre Pull-Anforderung die folgenden Felder erfüllt. -->
+- [ ] Pull Anforderung entspricht dem Code-Stil dieses Projekts
+- [ ] Mein Code erfordert Änderungen an der Dokumentation - seperate Pull Anforderung erstellen mit Verweis auf diese hier. 
+- [ ] Alle Tests wurden bestanden 
+
+## ℹ Zusätzlichen Informationen
+<!-- Zusätzlichen Informationen wie Änderungen, hinzugefügte Abhängigkeiten, Screenshots, Vergleiche zwischen neuem und altem Verhalten usw. -->
