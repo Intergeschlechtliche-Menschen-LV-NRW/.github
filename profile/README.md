@@ -1,12 +1,19 @@
-## Hi there 👋
+# WER WIR SIND
 
-<!--
+Wir sind der Intergeschlechtliche Menschen Landesverband NRW e.V., eine Organisation, die sich für die Rechte von intersexuellen Menschen einsetzt. Unsere Aufgabe ist es, das Bewusstsein zu schärfen, Akzeptanz zu fördern und diskriminierende Praktiken und Politiken in Frage zu stellen. Wir arbeiten daran, Unterstützung und Ressourcen für intersexuelle Menschen und ihre Familien bereitzustellen, und arbeiten mit anderen Organisationen zusammen, um eine integrativere Gesellschaft zu fördern. Helfen Sie uns, eine Welt zu schaffen, in der jeder Mensch unabhängig von seiner biologischen Konstitution geschätzt und respektiert wird.
 
-**Here are some ideas to get you started:**
+Wir verstehen Intergeschlechtlichkeit als einen Ausdruck natürlicher Vielfalt. Dies bedeutet, dass wir uns von Pathologisierungen und Störungsbegriffen klar distanzieren.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Unser Angebot
+Beratung
+Aufklärung
+Selbsthilfe
+
+
+Intergeschlechtliche Menschen LV NRW e.V.
+Lindenstr. 20
+50764 Köln
+
+
+                
+                
